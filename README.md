@@ -16,6 +16,4 @@ example R9 380 with memory clocked at 1.5Ghz:
     128 GB in 906.2 ms (141.3 GB/s)
 
 
-# Thanks
-
-cl-mem uses code from Marc Bevand's SILENTARMY zcash miner
+ ` This version has been modified to support cross-compiling.`
